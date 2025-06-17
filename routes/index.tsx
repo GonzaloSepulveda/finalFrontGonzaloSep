@@ -5,7 +5,7 @@ export default function Home() {
   const count = useSignal(3);
   return (
     <div>
-      Hola mundo
+      Adios mundo
     </div>
   );
 }
